@@ -1,5 +1,5 @@
 function printLine() {
-    console.log('---------------------------------------------');
+    console.log('-'.repeat(15));
 }
 
 const message = 'Hello';
